@@ -8,9 +8,7 @@
     outline: none;
 }
 
-header{
-    
-}
+
 
 body{
     font-family: 'Roboto', Arial, sans-serif !important;
@@ -388,12 +386,9 @@ p{
     color: #00b39b;
 }
 .last_sect>header>p{
-    font-size: 2.142
+    font-size: 2.142rem;
 }
 
-.last_sect>div>header{
-    
-}
 
 .st_div_pictures>header{
     display: flex;
